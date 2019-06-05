@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Pursuing Ph.D in Computer Science, IIT Gandhinagar, 2019 (expected)
+* Ph.D in Computer Science, IIT Gandhinagar, 2019 (expected)
 * M.Tech. in Geoinformatics, IIT Kanpur, 2013
 * B.E. in Information Technology, Mumbai University, 2010
 
