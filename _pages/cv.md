@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Pursuing Ph.D in Computer Science, IIT Gandhinagar, 2019 (expected)
+* M.Tech. in Geoinformatics, IIT Kanpur, 2013
+* B.E. in Information Technology, Mumbai University, 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October - December 2018: Research Assistant
+  * TCS Research, Kolkata, India
+  <!-- * Duties included: Merging pull requests -->
+  * Supervisor: [Dr. Indrajit Bhattacharya](https://sites.google.com/site/indrajitb/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Research Assistant
+  * IBM Research, New Delhi, India
+  <!-- * Duties included: Tagging issues -->
+  * Supervisor: [Dr.Srikanta Bedathur](http://www.cse.iitd.ac.in/~srikanta/) 
+
   
 Skills
 ======
