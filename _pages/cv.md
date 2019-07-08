@@ -36,13 +36,13 @@ Publications
   {% endfor %}</ul>
   
 
-Talks
+<!-- Talks
 ======
 Coming Soon!!!!
   
 Teaching
 ======
-Coming Soon!!!!
+Coming Soon!!!! -->
   
 <!-- Service and leadership
 ======
