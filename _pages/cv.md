@@ -38,11 +38,11 @@ Publications
 
 Talks
 ======
-Coming Soon!!!!
+Will be updated soon!!!!
   
 Teaching
 ======
-Coming Soon!!!!
+Will be updated soon!!!!
   
 <!-- Service and leadership
 ======
