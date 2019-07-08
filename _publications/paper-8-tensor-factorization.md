@@ -1,6 +1,6 @@
 ---
 title: "One Pass Sampling for Supersymmetric Tensor Factorization"
-collection: publications
+collection: inprogress
 date: 2019-08-16
 venue: 'Under Reveiw'
 paperurl: ''

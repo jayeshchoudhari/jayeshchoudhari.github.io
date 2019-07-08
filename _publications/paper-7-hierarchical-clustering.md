@@ -1,6 +1,6 @@
 ---
 title: "Efficient Hierarchical Clustering for Classification and Anomaly Detection"
-collection: publications
+collection: inprogress
 date: 2019-08-16
 venue: 'Under Review'
 paperurl: ''
