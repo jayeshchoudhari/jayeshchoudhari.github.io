@@ -28,14 +28,6 @@ Work experience
   * Supervisor: [Dr.Srikanta Bedathur](http://www.cse.iitd.ac.in/~srikanta/) 
 
   
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
 Publications
 ======
@@ -43,7 +35,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
+<!-- Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -53,8 +54,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
-<!-- Service and leadership
+Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
