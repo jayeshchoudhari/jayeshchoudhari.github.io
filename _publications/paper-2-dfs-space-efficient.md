@@ -1,7 +1,7 @@
 ---
 title: "Nearly Optimal Space Efficient Algorithm for Depth First Search"
-collection: publications
-date: 2018-08-16
+collection: underreview
+date: 2019-09-30
 venue: 'ArXiv-2018'
 paperurl: 'https://arxiv.org/abs/1810.07259'
 citation: 'With: Manoj Gupta, Shivdutt Sharma.'
