@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, IIT Gandhinagar, 2019 (expected)
-* M.Tech. in Geoinformatics, IIT Kanpur, 2013
-* B.E. in Information Technology, Mumbai University, 2010
+* Postdoctoral Research Assistant, University of Warwick (Since March 2020)
+* Ph.D. in Computer Science, IIT Gandhinagar, (Jan. 2015 - Feb. 2020)
+* M.Tech. in Geoinformatics, IIT Kanpur, (2011-2013)
+* B.E. in Information Technology, Mumbai University, (2006-2010)
 
 Work experience
 ======
