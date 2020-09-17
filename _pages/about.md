@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Jayesh Choudhari, currently a Postdoctoral Research Assistant at University of Warwick, honoured to be working under the guidance of [Prof. Sayan Bhattacharya](https://www.dcs.warwick.ac.uk/~u1671158/).  
+I am Jayesh Choudhari, currently a Postdoctoral Research Assistant at University of Warwick, honoured to be working under the guidance of [Dr. Sayan Bhattacharya](https://www.dcs.warwick.ac.uk/~u1671158/).  
 
 Before joining as a postdoc, I was a Ph.D. student in the [Computer Science Department](http://cs.iitgn.ac.in/) at [IIT Gandhinagar](http://www.iitgn.ac.in/) since December 2014. I was privileged to be advised by [Prof. Anirban Dasgupta](https://sites.google.com/site/anirbandasgupta/) and co-advised by [Dr. Indrajit Bhattacharya](https://sites.google.com/site/indrajitb/). As a part of my thesis I worked on developing Models and Algorithms for Information Diffusion in Social Networks. I also worked closely with [Dr. Srikanta Bedathur](http://www.cse.iitd.ac.in/~srikanta/).
 Currently I am working on problems related to Dynamic algorithms, Coresets, Fault-Tolerant algorithms, Sublinear time algorithms and some problems in NLP. I was also a TCS Research Scholar from Jan. 2015 till Dec. 2018.
