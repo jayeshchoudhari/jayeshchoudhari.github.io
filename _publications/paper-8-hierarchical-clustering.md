@@ -1,7 +1,7 @@
 ---
 title: "Efficient Hierarchical Clustering for Classification and Anomaly Detection"
 collection: underreview
-date: 2019-08-16
+date: 2020-08-16
 venue: 'Under Review'
 paperurl: ''
 citation: 'With: Ishita Doshi, Sreekalyan Sajjala, Rushi Bhatt, Anirban Dasgupta.'
