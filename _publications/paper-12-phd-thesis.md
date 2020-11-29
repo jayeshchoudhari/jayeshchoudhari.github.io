@@ -1,7 +1,7 @@
 ---
 title: "Ph.D. Thesis: Models and Algorithms for Information Diffusion in Social Networks" 
 collection: Thesis
-date: 2020-08-16
+date: 2020-08-04
 venue: ''
 paperurl: ''
 citation: ''
