@@ -1,5 +1,5 @@
 ---
-title: "Analyzing Topic Transitions in Text-based Social Cascades using Dual-Network Hawkes Process (DNHP)" 
+title: "Dual-Network Hawkes Process (DNHP) for Text based Cascades on Social Networks" 
 collection: underreview
 date: 2020-08-16
 venue: 'Under Review'
