@@ -39,7 +39,13 @@ Publications
 
 Talks
 ======
-Will be updated soon!!!!
+<ul>
+{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+  
+
+<!--Will be updated soon!!!!-->
   
 Teaching
 ======
