@@ -7,6 +7,6 @@ venue: "IIT Gandhinagar, Computer Science Department"
 date: 2016-05-11
 location: "Gandhinagar, India"
 ---
-[Link to the talk](../files/11-05-2016-Qualifiers-Influence-Maximization.pdf).
+[Slides](../files/11-05-2016-Qualifiers-Influence-Maximization.pdf).
 
 
