@@ -47,13 +47,13 @@ Talks
 
 <!--Will be updated soon!!!!-->
   
-Teaching
+<!--Teaching
 ======
 Will be updated soon!!!!
   
-<!-- Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams -->
+* Reviewer: WSDM-2021, AAAI-2021, AISTATS-2021 -->
 
 <!-- Skills
 ======
