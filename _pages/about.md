@@ -9,11 +9,13 @@ redirect_from:
 ---
 I am Jayesh Choudhari, currently a Postdoctoral Fellow at University of Warwick, honoured to be working under the guidance of [Dr. Sayan Bhattacharya](https://www.dcs.warwick.ac.uk/~u1671158/).  
 
-Before joining as a postdoc, I was a Ph.D. student in the [Computer Science Department](http://cs.iitgn.ac.in/) at [IIT Gandhinagar](http://www.iitgn.ac.in/) since December 2014. I was privileged to be advised by [Prof. Anirban Dasgupta](https://sites.google.com/site/anirbandasgupta/) and co-advised by [Dr. Indrajit Bhattacharya](https://sites.google.com/site/indrajitb/). As a part of my thesis I worked on developing **Models and Algorithms for Information Diffusion in Social Networks**. I also worked closely with [Dr. Srikanta Bedathur](http://www.cse.iitd.ac.in/~srikanta/).
-Currently I am working on problems related to Dynamic algorithms, Information Diffusion, Coresets, Fault-Tolerant algorithms, Sublinear time algorithms. During my Ph.D., I was also awarded *TCS Research Scholarship* from Jan. 2015 till Dec. 2018.
+Before joining as a postdoc, I was a Ph.D. student in the [Computer Science Department](http://cs.iitgn.ac.in/) at [IIT Gandhinagar](http://www.iitgn.ac.in/) since December 2014. I was privileged to be advised by [Prof. Anirban Dasgupta](https://sites.google.com/site/anirbandasgupta/) and co-advised by [Dr. Indrajit Bhattacharya](https://sites.google.com/site/indrajitb/). As a part of my thesis I worked on developing **Models and Algorithms for Information Diffusion in Social Networks**. I also worked closely with [Dr. Srikanta Bedathur](http://www.cse.iitd.ac.in/~srikanta/). During my Ph.D., I was also awarded *TCS Research Scholarship* from Jan. 2015 till Dec. 2018.
+
+Currently I am working on problems related to broader set of topics such as Dynamic algorithms, Fairness, Coresets, Information Diffusion in Networks, Fault-Tolerant algorithms, and Sublinear time algorithms.
 
 
-**Reviewer:** WSDM 2021, AAAI 2021, AISTATS 2021
+**Reviewer:** WSDM 2021, AAAI 2021, AISTATS 2021, ISAAC 2019, KAIS 2017
+
 
 <!--
 **Recent Work in Progress:**
