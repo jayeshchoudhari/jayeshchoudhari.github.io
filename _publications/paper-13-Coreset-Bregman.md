@@ -2,7 +2,7 @@
 title: "Coresets for Bregman Divergence"
 collection: underreview
 date: 2020-11-20
-venue: 'ArXiv'
+venue: 'Under Review'
 paperurl: 'https://arxiv.org/abs/2012.06522'
 citation: 'With: Supratim Shit, Rachit Chhayya, Anirban Dasgupta.'
 permalink: /publication/2015-10-01-paper-title-number-13

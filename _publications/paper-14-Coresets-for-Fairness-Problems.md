@@ -2,7 +2,7 @@
 title: "Coresets for Fairness Problems"
 collection: underreview
 date: 2021-02-04
-venue: ''
+venue: 'Under Review'
 paperurl: ''
 citation: 'With: Rachit Chhayya, Supratim Shit, Anirban Dasgupta.'
 permalink: /publication/2021-02-04-paper-title-number-14
