@@ -15,12 +15,12 @@ Currently I am working on problems related to broader set of topics such as Dyna
 
 
 
-**Recent and Ongoing Work:**
+<!-- **Recent and Ongoing Work:**
 
 * Analyzing and Modeling Cascades in Networks
 * Coresets for Machine Learning and Fairness problems
 * Dynamic Algorithms for Densest Subgraph and similar problems
-* Sublinear Algorithms for estimating graph properties 
+* Sublinear Algorithms for estimating graph properties  -->
 
 
 
